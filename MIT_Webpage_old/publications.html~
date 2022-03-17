@@ -1,0 +1,141 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en"><head>
+<meta name="generator" content="jemdoc, see http://jemdoc.jaboc.net/">
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<link rel="stylesheet" href="Abhishek_Sinha_files/jemdoc.css" type="text/css">
+<title>Abhishek Sinha – Personal</title>
+</head>
+<body>
+<table summary="Table for page layout." id="tlayout">
+<tbody><tr valign="top">
+<td id="layout-menu">
+<!-- <div class="menu-category">Home</div>
+<div class="menu-item"><a href="http://www.mit.edu/%7Edevavrat/index.html">Main</a></div>
+<div class="menu-item"><a href="http://www.mit.edu/%7Edevavrat/news.html">News</a></div>
+<div class="menu-category">Research</div>
+<div class="menu-item"><a href="http://www.mit.edu/%7Edevavrat/publications.html">Publications</a></div>
+<div class="menu-item"><a href="http://www.mit.edu/%7Edevavrat/projects.html">Projects</a></div>
+<div class="menu-category">Teaching</div>
+<div class="menu-item"><a href="http://www.mit.edu/%7Edevavrat/courses.html">Courses</a></div>
+<div class="menu-item"><a href="http://www.mit.edu/%7Edevavrat/talks.html">Talks</a></div>
+<div class="menu-category">About myself</div>
+<div class="menu-item"><a href="http://www.mit.edu/%7Edevavrat/bio.html" class="current">Biography</a></div>
+<div class="menu-item"><a href="http://www.mit.edu/%7Edevavrat/awards.html">Awards</a></div>
+<div class="menu-category">Group</div>
+<div class="menu-item"><a href="http://www.mit.edu/%7Edevavrat/members.html">Members</a></div>
+<div class="menu-item"><a href="http://www.mit.edu/%7Edevavrat/alumni.html">Alumni</a></div>
+<div class="menu-category">Misc</div>
+<div class="menu-item"><a href="http://www.mit.edu/%7Edevavrat/contact.html">Contact</a></div>
+<div class="menu-item"><a href="http://www.mit.edu/%7Edevavrat/admin.html">Administrator</a></div> //-->
+</td>
+<td id="layout-content">
+<div id="toptitle">
+<p><br></p>
+<p><br></p>
+<h1>Working Papers </h1>
+<p><br></p>
+<ul>
+<li><p>[W1] A. Sinha, E. Modiano, <i> Universal Max-Weight Algorithms for Network-flow problems, A general framework. </i> <br>
+</li>
+</ul>
+<p><br></p>
+<h1>Conference Publications </h1>
+<p><br></p>
+<ul>
+<li><p>[C1] A. Sinha, G. Paschos, E. Modiano, <a href="http://web.mit.edu/~sinhaa/Mobihoc_2016_General_Broadcast.pdf">Throughput-Optimal Multi-hop Broadcast Algorithms,</a> To appear in <i>Proceedings of Mobihoc,</i> 2016. </p>
+</li>
+</ul>
+<ul>
+<li><p>[C2] A. Sinha, L. Tassiulas, E. Modiano, <a href="http://web.mit.edu/~sinhaa/Mobihoc_2016_dynamic_broadcast.pdf">Throughput-Optimal Broadcast in Wireless Networks with
+Dynamic Topology,</a> To appear in <i>Proceedings of Mobihoc,</i> 2016. </p>
+</li>
+</ul>
+<ul>
+<li><p>[C3] A. Sinha, G. Paschos, C. Li, E. Modiano, <a href="http://web.mit.edu/~sinhaa/Sinha_Broadcast_INFOCOM-2015.pdf">Throughput-Optimal Broadcast on
+Directed Acyclic Graphs,</a> <i>Proceedings of INFOCOM,</i> 2015. <a href="http://web.mit.edu/~sinhaa/INFOCOM_2015_Conference_Talk.pdf"> [slides]</a> </p>
+</li>
+</ul>
+<ul>
+<li><p>[C4] A. Sinha, P. Mani, J. Liu, A. Flavel, D. Maltz, <a href="http://web.mit.edu/~sinhaa/AllertonReport.pdf"> Distributed Load Management in Anycast-based CDNs.</a> <i>Proceedings of Allerton, 2015.</i> </a> <a href="https://drive.google.com/file/d/0B9EzdOfloA_BRllxaG1qZVlkeTQ/view?usp=sharing"> [slides]</a> 
+ </p>
+</li>
+</ul>
+<ul>
+<li><p>[C5] A. Chattopadhyay, A. Sinha, M. Coupechoux, A. Kumar, <a href="http://web.mit.edu/~sinhaa/Arpan_WiOpt_2012.pdf"> Optimal
+Capacity Relay Node Placement in a Multi-hop Network on a Line,  </a><i> Proceedings of WiOpt, </i>2012. <br>
+</li>
+</ul>
+<p><br></p>
+<h1>Journal Publications </h1>
+<p><br></p>
+<ul>
+<li><p>[J1] A. Sinha, G. Paschos, C.p. Li, E. Modiano, <a href="http://web.mit.edu/~sinhaa/DAG_Journal_ToN_2015.pdf"> Throughput-Optimal Multihop Broadcast on
+Directed Acyclic Wireless Networks,</a> Submitted to <i> IEEE/ACM Transactions on Networking.</i>
+ <br>
+</li>
+</ul>
+<ul>
+<li><p>[J2] A. Sinha, P. Mani, J. Liu, A. Flavel, D. Maltz, <a href="http://web.mit.edu/~sinhaa/Anycast_CDN_Algorithm.pdf"> Distributed Load Management Algorithms in
+Anycast-based CDNs,</a> Submitted to <i> Computer Networks, Elsevier. </i></p>
+</li>
+</ul>
+<ul>
+<li><p>[J3] A. Sinha, A. Chattopadhyay, K.P. Naveen, P. Mondal, M. Coupechoux, A. Kumar, <a href="http://web.mit.edu/~sinhaa/Sinha_MDP_Adhoc-Networks2014.pdf"> Optimal sequential wireless relay placement on a random lattice path,</a> <i> Ad Hoc Networks, Elsevier. </i></p>
+</li>
+</ul>
+<ul>
+<li><p>[J4] A. Chattopadhyay, A. Sinha, M. Coupechoux, A. Kumar, <a href="http://arxiv.org/pdf/1204.4323.pdf"> Optimal Capacity Relay Node Placement in a
+Multi-hop Wireless Network on a Line, </a> Submitted to <i> IEEE Transactions on Mobile Computing.</i>
+</li>
+</ul>
+<ul>
+<li><p>[J5] A. Sinha, S. Das, B.K. Panigrahi, <a href="http://web.mit.edu/~sinhaa/BE_Thesis.pdf"> A Linear State-Space Analysis of the Migration Model in an Island Biogeography System,</a><i> IEEE Transactions on System, Man and Cybernetics- Part A: Systems and Humans.</i>
+ <br>
+</li>
+</ul>
+<p><br></p>
+<h1>Thesis/ Technical Reports/ Class-projects</h1>
+<p><br></p>
+&nbsp &nbsp &nbsp &nbsp &nbsp My Master's thesis at IISc:
+<p><br></p>
+<ul>
+<li><p>[T] A. Sinha, <a href="http://web.mit.edu/~sinhaa/ME_thesis.pdf"> Optimal Impromptu Deployment of A Multi-Hop
+Wireless Network On a Random Lattice Path. </a> </p>
+</li>
+</ul>
+<p><br></p>
+&nbsp &nbsp &nbsp &nbsp &nbsp Some brief expositiory articles that I wrote as part of my class-projects at MIT:
+<p><br></p>
+<ul>
+<li><p>[R1] A. Sinha, <a href="http://web.mit.edu/~sinhaa/Smooth_Games.pdf"> Smooth Games, Price of Anarchy and
+Composability of Auctions - a Quick Tutorial. </a> 
+</li>
+</ul>
+<ul>
+<li><p>[R2] A. Sinha, <a href="http://web.mit.edu/~sinhaa/Capacity_Convex_Opt.pdf"> Convex Optimization methods for Computing
+Channel Capacity. </a> </a> <a href="http://web.mit.edu/~sinhaa/convex_presentation.pdf"> [slides]</a> </p>
+</li>
+</ul>
+<ul>
+<li><p>[R3] A. Sinha, <a href="http://web.mit.edu/~sinhaa/Capacity_Scaling.pdf"> Information Theory Meets Percolation Theory :
+Capacity Scaling in Wireless Relay Networks. </a> <a href="https://drive.google.com/file/d/0B9EzdOfloA_BQy1LUHJaREpQbDQ/view?usp=sharing"> [slides]</a> </p>
+</li>
+</ul>
+<p><br></p>
+<h1>Miscellaneous</h1>
+<p><br></p>
+<ul>
+<li><p><a href="http://web.mit.edu/~sinhaa/Problems.pdf"> Here</a> is a collection of interesting exercises and my solutions. Also, have a look at <a href=https://brilliant.org/profile/abhishek-y363sq/> this page </a> for some interesting puzzles. If you have some interesting elementary problems that you want to share, please feel free to send me an email or drop by my office at <a href=http://whereis.mit.edu/?go=32> 32-D671.</a></p>
+</li>
+</ul>
+<div id="footer">
+<div id="footer-text">
+<img IMG STYLE="position:absolute; TOP:40px; LEFT:1000px" src="Abhishek_Sinha_files/mitLogo.png" alt="MITLogo" width="210px" ></a> 
+</div>
+</div>
+</td>
+</tr>
+</tbody></table>
+
+
+</body></html>
